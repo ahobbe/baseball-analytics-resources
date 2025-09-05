@@ -1,5 +1,7 @@
 # Baseball Analytics Resources
-My unorganized dump of cool baseball things I found on the internet.
+A collection of mildly interesting/useful resources that are at least somewhat related to baseball analytics/pitching/player development. Will eventually be put on a GitHub Pages site.
+
+Use <kbd>Ctrl</kbd>+<kbd>F</kbd> or <kbd>Command</kbd>+<kbd>F</kbd> (Mac) to search for a specific topic.
 
 ## Contents
 - [Basics](#basics)
@@ -54,6 +56,7 @@ My unorganized dump of cool baseball things I found on the internet.
   - [Driveline Baseball](https://www.youtube.com/@drivelinebaseball): [Quantifying Arsenal Effects A New Paradigm in Pitching Models](https://youtu.be/OdL6dafOArc) (2024) [24:44]
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [How To Customize Your Pitching Arsenal (Pronation vs. Supination)](https://youtu.be/CYFdqhnBM-k) (2024) [6:26]
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [Which Pitches Should You Throw? (Every Arm Slot)](https://youtu.be/nURgWH88L8Q) (2024) [8:39]
+  - [Lance Brozdowski](https://www.youtube.com/@LanceBroz): [Pitchers Are OBSESSED With One Thing…](https://youtu.be/Bj6D-bdKHVc) (2025) [11:35]
 - **Individual pitches**
   - [Fastballs: 4-Seamers, Sinkers](#fastballs)
   - [Offspeed: Changeups, Splitters](#offspeed)
@@ -98,6 +101,7 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
 - [Tread Athletics](https://www.youtube.com/@treadathletics): [What Makes a Plus Cutter? | Pitch Design for Dummies Ep. 3](https://youtu.be/i-kKr5fla5g) (2022) [5:10]
 - [Driveline Baseball](https://www.youtube.com/@drivelinebaseball): [How to Throw a Cutter | Thumb Positions, Grips, and Cues | Driveline Baseball](https://youtu.be/jlkqclvn6zg) (2022) [7:33]
 - [MLB Network](https://www.youtube.com/@MLBNetwork): [The Rise in Cutters in the MLB](https://youtu.be/rw5qTPO2xtc) (2022) [8:22] - *Jake Peavy*
+- [Lance Brozdowski](https://www.youtube.com/@LanceBroz): [This Pitch is Taking Over Baseball](https://youtu.be/AjwQimplMpU) (2025) [11:46]
 
 ### Breaking Balls
 - **Sliders**
@@ -133,6 +137,7 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
   - [Antonelli Baseball](https://www.youtube.com/@AntonelliBaseball): [What are MLB Scouting Reports like?](https://youtu.be/dut-gPJk1i0) (2017) [9:30] - *MiLB and MLB position player*
   - [Robby Rowland](https://www.youtube.com/@robbyrow): [Advanced Scouting Reports: My Personal Experience](https://youtu.be/VNqVODOeTnU) (2024) [23:13] - *MiLB pitcher*
 - **Other**
+  - [Driveline Baseball](https://www.youtube.com/@drivelinebaseball): [How Driveline’s Advance Reports Help MLB Players Prepare | R&D Podcast Ep 104](https://youtu.be/DWsxhQfYN_I) (2025) [1:06:44]
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [How To Use A Hitter's Attack Angle Against Them](https://youtu.be/zoM5cP7tRqU) (2022) [5:18]
 
 ## Technology
@@ -156,12 +161,111 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
 - **Maintenance**
   - [Software release downloads](https://wiki.edgertronic.com/wiki/Software_releases)
   - [How to update the camera](https://wiki.edgertronic.com/wiki/Updating_edgertronic_software)
+
+### AWRE
+- [AWRE Library](https://www.awresports.com/library)
  
 ### 643 Charts
 - [643 Charts YouTube Channel](https://www.youtube.com/@6-4-3charts9)
 
+### TruMedia
+- [TruMedia NCAA Baseball Help Center](https://ncaabaseball.help.trumedianetworks.com/nbhc/)
+
+### NewtForce
+- [NewtForce Pitching Mound Help Center](https://sites.google.com/newtforce.com/helpcenter)
+- [NewtForce YouTube Channel](https://www.youtube.com/@NewtForceLab)
+
 ## Other
 ### Smart People Saying Smart Things
+#### **Driveline Research and Development (R&D) Podcast**
+- **Arsenal Effects & The Death of the Sweeper?**, *Episode 100* (2025) [45:50] || [Spotify](https://open.spotify.com/episode/5tr29eULn8UnQTrmVEQEAb), [YouTube](https://youtu.be/MJ9_N8WBSYY)
+  - Arsenal models - how data predicted MLB's sweeper revolution and the chess theory of pitch combinations
+  - Component-based pitching models - breaking down pitch outcomes to better understand performance
+  - Matchup analysis - adding batter context to pitching models
+  - The player perspective - how analytics data gets translated to actionable information on game day
+  - The "Apple Ecocsystem" of baseball training - why integration of all development tools matters
+  - Pulse and workload management - using data to prepare pitchers and prevent early-season injuries
+- **How Data is Changing MLB Pitch Selection** (2025) [11:05] || [YouTube](https://youtu.be/xqMonR5En3U) - *clipped from Episode 100*
+- **Predicting Pitching Success: The Power of Advanced Models**, *Episode 101* (2025) [56:14] || [Spotify](https://open.spotify.com/episode/2eF7sJOy5dSSQPtgJnxoxl), [YouTube](https://youtu.be/gbO47WV3cqU)
+  - Introduction to pitch modeling
+  - Understanding pitch modeling basics
+  - Historical context and evolution of pitch modeling
+  - The value of Stuff and quick reliability
+  - Component-based approach to pitch modeling
+  - Philosophical shift in pitch analysis
+  - Optimization and decision-making in pitching
+  - Valuing hitters and pitchers equally
+  - The 'Big 3' in hitting analysis
+  - Understanding swing decisions and run values
+  - Individualizing swing decisions for hitters
+  - The matchup model - tailoring pitch values to hitters
+  - Pitch physics and its impact on modeling
+  - Recognizing model limitations and future directions
+- **Arsenal Building 101**, *Episode 102* (2025) [59:14] || [Spotify](https://open.spotify.com/episode/0HKAY8xt0TggoopxRsuriZ), [YouTube](https://youtu.be/jag-QwQucRw) - *no chapters :(*
+  - The importance of arsenal models in pitching
+  - How different pitches interact to create uncertainty for hitters
+  - "Mix" and "Match" metrics
+  - The trade-offs of adding pitches
+  - How better familiarity and training economy impact pitch effectiveness
+  - Heart rate data
+  - The future of pitching analytics in MLB
+- **From Intent to Impact: Understanding Command in Pitching**, *Episode 103* (2025) [1:09:13] || [Spotify](https://open.spotify.com/episode/3gvrAdiWmtCMozlehgnbD0), [YouTube](https://youtu.be/Uzd_DhhcP0M) - *no chapters :(*
+  - The challenges of measuring command in pitching
+  - The development of the Intended Zones tool
+  - The role of mechanical adjustability
+  - How variability can actually improve command
+  - New research on throwing mechanics, what it means for the future of command training
+- **How Driveline’s Advance Reports Help MLB Players Prepare**, *Episode 104* (2025) [1:06:30] || [Spotify](https://open.spotify.com/episode/0LU1CJiGrn6oddWH4ecEtH), [YouTube](https://youtu.be/DWsxhQfYN_I) - *no chapters :(*
+  - How advance scouting reports and game day data help players build effective attack plans
+  - How to simplify analytics into actionable insights by leveraging heat maps, pitch profiles, and batter tendencies
+  - How Driveline helps MLB players boost confidence, adapt in-game, and maximize performance
+- **How Should Shohei Ohtani Prepare Against the Arizona Diamondbacks?** (2025) [25:36] || [YouTube](https://youtu.be/x4AwSwtcgBA) - *clipped from Episode 104*
+  - Shohei Ohtani vs. Corbin Burnes matchup breakdown
+  - How hitters prepare for elite pitchers
+  - Key advance scouting report data points
+  - How actionable insights shape game plans
+- **Are You Managing Pitcher Workload Right?**, *Episode 105* (2025) [59:10] || [Spotify](https://open.spotify.com/episode/7wGZhbnZ6SvDFjEL1thW7h), [YouTube](https://youtu.be/eB8YnGYZygA) - *no chapters :(*
+  - How data and wearable technology are revolutionizing pitching workload management
+  - How tools like Pulse and Whoop provide key insights into total stress, beyond just game throws, by tracking acute and chronic workload
+  - Intentional strategies crucial for preventing injuries and optimizing performance for pitchers at all levels
+- **Maximizing Reliever Potential: Insights and Strategies**, *Episode 106* (2025) [48:43] || [Spotify](https://open.spotify.com/episode/7hhpL7dtKE8DEU6SJKSJpp), ~~YouTube~~  - *no chapters :(*
+  - The evolving landscape of bullpen strategy
+  - How teams are using openers
+  - Managing pitcher familiarity
+  - Creatively deploying relievers to gain an edge
+  - How back-to-back usage, arm slots, and chronic workload impact performance
+  - Why Spring Training should prepare pitchers for postseason demands
+  - The double hook proposal
+  - The challenges of positionless pitching
+  - The need for more context-aware metrics to better evaluate reliever effectiveness through the lens of building resilient, high-performing pitching staffs
+- **Optimizing Performance Through Swing Metrics**, *Episode 107* (2025) [51:06] || [Spotify](https://open.spotify.com/episode/34TfXOvWR5hCY2kL6FbghY), [YouTube](https://youtu.be/s0eeu-IEPLg) - *no chapters :(*
+  - How new hitting metrics from Baseball Savant are reshaping the way we evaluate and train hitters
+  - Vertical and horizontal attack angles, depth of contact, and bat path
+  - Why context is critical when interpreting these numbers (above)
+  - Case studies of hitters like Juan Soto, Vladimir Guerrero Jr., and Ronald Acuña Jr.
+  - How swing decisions, biomechanics, and ball flight data can be used to optimize performance at the plate
+- **The Future of Baseball: Stabilization, Optimization, and Model Dynamics**, *Episode 108* (2025) [59:35] || [Spotify](https://open.spotify.com/episode/7jXi1s8A5Mg6B2c7a1GZzk), [YouTube](https://youtu.be/YRt4A91erX8) - *no chapters :(*
+  - How model-based approaches are transforming player evaluation and development across baseball
+  - Model stabilization, predictive accuracy, and the nonlinear relationship between velocity and pitch effectiveness
+  - How to visualize complex pitch dynamics
+  - How to communicate insights to athletes
+  - How to balance objective data with a player's feel
+  - Why building and trusting the right model is more important than ever
+- **Solving Baserunning and Fielding with Katie Krall**, *Episode 109* (2025) [1:02:52] || [Spotify](https://open.spotify.com/episode/7Jg6I7FSYcRl97uJn4j77g), [YouTube](https://youtu.be/Lgjgj7uB58g) - *no chapters :(*
+  - The evolving role of analytics in player development
+  - Advance scouting, swing decisions, defensive training
+  - The rise of tandem starters
+  - How players and coaches can better leverage information for on-field success
+  - Ownership, communication, and the tools shaping the future of baseball
+- **Understanding Batter Perception Through Analytics with Stephen Stutton Brown**, *Episode 110* (2025) [1:09:51] || [Spotify](https://open.spotify.com/episode/25q1WNTNAUevfdsKKkcQX1), [YouTube](https://youtu.be/SZyQj89s1RY) - *no chapters :(*
+  - The intersection of engineering and baseball analytics
+  - Modeling batter perception, pitch outcomes, the evolution of swing metrics, arsenal design
+  - How new data is reshaping our understanding of the game
+  - Working at Baseball Prospectus and General Motors
+  - The challenges of modeling dynamic decisions
+  - The promise of bat tracking
+  - What might be next in performance analysis
+
 #### **Expected Value Podcast (TruMedia)**
 - **Jonathan Tosches**, *Washington Nationals Manager of Advance Scouting* (2020) [44:37] || [TruMedia](https://www.trumedianetworks.com/expected-value-podcast/2020/3/31/jonathan-tosches-washington-nationals), [Spotify](https://open.spotify.com/episode/1UvookTOntgreokytWibwM), ~~YouTube~~
   - What MLB advance scouts do
@@ -266,8 +370,12 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
   - [What is the Strike Zone?](https://medium.com/iowabaseballmanagers/what-is-the-strike-zone-b89beaf9e37e) (2024) [5 minute read]
   - [Does Sequencing Really Matter?](https://medium.com/iowabaseballmanagers/does-sequencing-really-matter-8cc116a469db) (2024) [4 minute read]
   - [Precision: Using Release Angles to Measure Command](https://medium.com/iowabaseballmanagers/precision-using-release-angles-to-measure-command-8ad13e208226) (2025) [6 minute read]
+  - [Expected Stats Revamped: Using Batted Ball Quality to Project Future Performance](https://medium.com/iowabaseballmanagers/expected-stats-revamped-using-batted-ball-quality-to-project-future-performance-007a239b44f6) (2025) [8 minute read]
+  - [Creating a College Baseball Win Probability Model](https://medium.com/iowabaseballmanagers/creating-a-college-baseball-win-probability-model-6194b285c939) (2025) [5 minute read]
+  - [Lineup Skillset Diversity Importance](https://medium.com/iowabaseballmanagers/lineup-skillset-diversity-importance-294f57bc3577) (2025) [4 minute read]
 
 ## Later
+Links I plan to organize and add in a nicer way in the future.
 - [Backside Groundballs Media](https://www.youtube.com/@BacksideGroundballsMedia) - interviews, lab videos
 - [Ahead Of The Curve](https://www.youtube.com/@AheadOfTheCurve) - interviews
 - Wake Forest, Princeton baseball blogs + Wake Forest lab stuff
