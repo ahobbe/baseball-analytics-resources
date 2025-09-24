@@ -1,7 +1,8 @@
 # Baseball Analytics Resources
-A collection of mildly interesting/useful resources that are at least somewhat related to baseball analytics/pitching/player development. Will eventually be put on a GitHub Pages site.
+A collection of mildly interesting/useful resources that are at least somewhat related to baseball analytics/pitching/player development.
 
-Use <kbd>Ctrl</kbd>+<kbd>F</kbd> or <kbd>Command</kbd>+<kbd>F</kbd> (Mac) to search for a specific topic.
+> [!TIP]
+> Use <kbd>Ctrl</kbd>+<kbd>F</kbd> or <kbd>Command</kbd>+<kbd>F</kbd> (Mac) to search for a specific topic.
 
 ## Contents
 - [Basics](#basics)
@@ -79,7 +80,7 @@ Use <kbd>Ctrl</kbd>+<kbd>F</kbd> or <kbd>Command</kbd>+<kbd>F</kbd> (Mac) to sea
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [How To Improve Your Fastball | Advanced Pitching Concepts](https://youtu.be/6yRNn3-1CYk) (2022) [5:39]
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [The Ultimate Cheat Sheet For Righty 4-Seams, Sinkers, and Cutters](https://youtu.be/Cfi1h2l4ISU) (2022) [11:25]
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [The Ultimate Cheat Sheet for Lefty 4-Seams, Sinkers, and Cutters](https://youtu.be/Lg4eqhnDrqo) (2022) [9:40]
-- **4-seamers**
+- **4-Seamers**
   - [Tread Athletics](https://www.youtube.com/@treadathletics): [What Makes a Plus Four-Seam Fastball? | Pitch Design for Dummies Ep. 1](https://youtu.be/WmVhWhNAA4M) (2022) [3:59]
   - [Driveline Baseball](https://www.youtube.com/@drivelinebaseball): [How to Identify Baseball Pitches: 4 Seam Fastball | The Difference Between FFs | Driveline Baseball](https://youtu.be/BuhVqOjL9qc) (2022) [10:49]
   - [Driveline Baseball](https://www.youtube.com/@drivelinebaseball): [How to Throw a Four Seam Fastball | Thumb Positions, Grips, and Cues | Driveline Baseball](https://youtu.be/YQkUrg4obaA) (2022) [6:01]
@@ -174,6 +175,20 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
 ### NewtForce
 - [NewtForce Pitching Mound Help Center](https://sites.google.com/newtforce.com/helpcenter)
 - [NewtForce YouTube Channel](https://www.youtube.com/@NewtForceLab)
+
+### Free Data
+#### Sources
+Places to get publicly available MLB and/or college data.
+- [Baseball Savant](https://baseballsavant.mlb.com/) - *Statcast*
+- [Baseball Reference](https://www.baseball-reference.com/)
+- [FanGraphs](https://www.fangraphs.com/) - *good blog too*
+- [Lahman Baseball Database](https://sabr.org/lahman-database/) - *1871-2024, requires knowledge on working with databases or at least CSVs*
+- [Pitch Profiler](https://www.mlbpitchprofiler.com/) - *Baseball Savant alternative, a lot of the cool stuff is behind a Patreon paywall though :(*
+- [The Baseball Cube](https://www.thebaseballcube.com) - *good for JUCO*
+
+#### Working with Data
+- [pybaseball](https://pypi.org/project/pybaseball/) - *for Python*
+- [baseballr](https://billpetti.github.io/baseballr/) - *for R*
 
 ## Other
 ### Smart People Saying Smart Things
@@ -374,24 +389,46 @@ Sometimes grouped into fastballs, other times into breaking balls. So, I'm just 
   - [Creating a College Baseball Win Probability Model](https://medium.com/iowabaseballmanagers/creating-a-college-baseball-win-probability-model-6194b285c939) (2025) [5 minute read]
   - [Lineup Skillset Diversity Importance](https://medium.com/iowabaseballmanagers/lineup-skillset-diversity-importance-294f57bc3577) (2025) [4 minute read]
 
+### Books
+> [!NOTE]
+> If you are interested in reading any of these, talk to Anna before buying your own copy. The [ASU Library](https://lib.asu.edu/) has a lot of these.
+
+- [Moneyball](https://www.goodreads.com/book/show/1301.Moneyball) by Michael Lewis (2003) - *this is old, but where it got started for a lot of people*
+- [The Book: Playing the Percentages in Baseball](https://www.insidethebook.com/) by Tom M. Tango, Mitchel G. Lichtman, Andrew E. Dolphin (2006) || [Goodreads](https://www.goodreads.com/book/show/402530.The_Book)
+- [The Extra 2%: How Wall Street Strategies Took a Major League Baseball Team from Worst to First](https://www.goodreads.com/book/show/9359172-the-extra-2) by Jonah Keri (2011) - *2008 Rays*
+- [The Signal and the Noise: Why So Many Predictions Fail—But Some Don't](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) by Nate Silver (2012) - *not just about baseball*
+- [Baseball Maverick: How Sandy Alderson Revolutionized Baseball and Revived the Mets](https://www.goodreads.com/book/show/22603657-baseball-maverick) by Steve Kettmann (2014)
+- [Big Data Baseball: Math, Miracles, and the End of a 20-Year Losing Streak](https://www.goodreads.com/book/show/22895690-big-data-baseball) by Travis Sawchik (2015) - *2013 Pirates*
+- [The Arm: Inside the Billion-Dollar Mystery of the Most Valuable Commodity in Sports](https://www.goodreads.com/book/show/25817446-the-arm) by Jeff Passan (2016)
+- [The Only Rule Is It Has to Work: Our Wild Experiment Building a New Kind of Baseball Team](https://www.goodreads.com/book/show/26792284-the-only-rule-is-it-has-to-work) by Ben Lindbergh, Sam Miller (2016)
+- [Smart Baseball: The Story Behind the Old Stats That Are Ruining the Game, the New Ones That Are Running It, and the Right Way to Think About Baseball](https://www.goodreads.com/book/show/30653783-smart-baseball) by Keith Law (2017)
+- [The Shift: The Next Evolution in Baseball Thinking](https://www.goodreads.com/book/show/38465551-the-shift) by Russell A. Carleton (2018)
+- [Astroball: The New Way to Win It All](https://www.goodreads.com/book/show/37822619-astroball) by Ben Reiter (2018) - *published before the cheating scandal was uncovered*
+- [The MVP Machine: How Baseball's New Nonconformists Are Using Data to Build Better Players](https://www.goodreads.com/book/show/42283858-the-mvp-machine) by Ben Lindbergh, Travis Sawchik (2019)
+- [Future Value: The Battle for Baseball's Soul and How Teams Will Find the Next Superstar](https://www.goodreads.com/book/show/52355964-future-value) by Eric Longenhagen, Kiley McDaniel (2020)
+- [Winning Fixes Everything: How Baseball's Brightest Minds Created Sports' Biggest Mess](https://www.goodreads.com/book/show/55921510-winning-fixes-everything) by Evan Drellich (2023) - *Astros cheating stuff, kind of a flip side to Astroball*
+
+#### Technical Stuff
+- [Analyzing Baseball Data with R (Third Edition)](https://beanumber.github.io/abdwr3e/) by Jim Albert, Benjamin S. Baumer, Max Marchi (2025) - **this one is free!!!**
+- [Learn to Code with Baseball](https://codebaseball.com/) by Nathan Braun ($79 with lifetime updates) - *"Python. Pandas. Web Scraping. Databases. SQL. Machine Learning. APIs. All applied to MLB data"*
+
 ## Later
 Links I plan to organize and add in a nicer way in the future.
-- [Backside Groundballs Media](https://www.youtube.com/@BacksideGroundballsMedia) - interviews, lab videos
-- [Ahead Of The Curve](https://www.youtube.com/@AheadOfTheCurve) - interviews
-- Wake Forest, Princeton baseball blogs + Wake Forest lab stuff
-- More [Robby Rowland](https://www.youtube.com/@robbyrow) mechanics videos, [Pitching Ninja](https://www.youtube.com/@PitchingNinjaVideos) interviews
-- Some [Trevor May](https://www.youtube.com/@TrevorMayBaseball) things
-- Maybe more [Simple Sabermetrics](https://www.youtube.com/@SimpleSabermetrics)
-- [FanGraphs](https://www.fangraphs.com/)
-- Places to get publicly available MLB and/or college data
-  - [Baseball Savant](https://baseballsavant.mlb.com/) (Statcast)
-  - [Baseball Reference](https://www.baseball-reference.com/)
-  - [The Baseball Cube](https://www.thebaseballcube.com) (good for JUCO)
-- Books?
-  - *Astroball*
-  - *Big Data Baseball*
-  - *The MVP Machine*
-  - *Smart Baseball: The Story Behind the Old Stats That Are Ruining the Game, the New Ones That Are Running It, and the Right Way to Think About Baseball*
-  - *The Book: Playing The Percentages In Baseball*
-  - *Analyzing Baseball Data with R*
-  - *Learn to Code with Baseball - Python for Baseball Data*
+
+**Videos from these YouTube channels**
+- [Lance Brozdowski](https://www.youtube.com/@LanceBroz)
+- [Tread Athletics](https://www.youtube.com/@treadathletics)
+- [Driveline Baseball](https://www.youtube.com/@drivelinebaseball)
+- [Pitching Ninja](https://www.youtube.com/@PitchingNinjaVideos)
+- [Backside Groundballs Media](https://www.youtube.com/@BacksideGroundballsMedia)
+- [Ahead Of The Curve](https://www.youtube.com/@AheadOfTheCurve)
+- [Trevor May](https://www.youtube.com/@TrevorMayBaseball)
+- [Adam Ottavino](https://www.youtube.com/@adamottavinozero)
+- [Robby Rowland](https://www.youtube.com/@robbyrow)
+- [Simple Sabermetrics](https://www.youtube.com/@SimpleSabermetrics)
+
+**Articles from these blogs/sites**
+- [Wake Forest Baseball Analytics](https://medium.com/wake-forest-baseball-analytics)
+- [SABR Tooth Tigers](https://medium.com/sabr-tooth-tigers) - *Princeton*
+- [Tango on Baseball](https://www.tangotiger.net/)
+- [The Athletic](https://theathletic.com/) - *Eno Sarris*
